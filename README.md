@@ -23,8 +23,9 @@ Spotify OBS Overlay also has the option for different themes. You can choose fro
 
 <img width="790" height="594" alt="3" src="https://github.com/user-attachments/assets/780d4c37-3c9f-437d-80af-daa40c06f238" />
 
-Below is one of the templates already pre-loaded incase you would like to create your own theme.
+Below is one of the templates already pre-loaded incase you would like to create your own theme. Just title is themename.css
 
+```
 :root {
   --overlay-bg: linear-gradient(135deg, #005555 0%, #00e6e6 100%);
   --accent-bg: linear-gradient(180deg, #00e6e6 0%, #005555 100%);
@@ -36,7 +37,7 @@ Below is one of the templates already pre-loaded incase you would like to create
   --albumart-shadow: 0 2px 8px #00e6e699;
   --albumart-border: 2px solid #00e6e6;
 }
-
+```
 
 If you have any issues, feel free to open up an issue, and i will get to it as soon as i can!!
 
