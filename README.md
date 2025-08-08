@@ -21,8 +21,6 @@ Click OK and the browser source should now show on your stream as the currently 
 Spotify OBS Overlay also has the option for different themes. You can choose from one of the preset themes in the application, or you can create your own and put it in SpotifyOBSOverlay>Themes which can be found in the directory you chose during installation. 
 
 
-<img width="790" height="594" alt="3" src="https://github.com/user-attachments/assets/780d4c37-3c9f-437d-80af-daa40c06f238" />
-
 Below is one of the templates already pre-loaded incase you would like to create your own theme. Just title is themename.css
 
 ```
